@@ -65,3 +65,10 @@ https://github.com/Yaszh/ball_tracking_system/assets/71252244/e2243d66-ed93-47d1
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## Acknowledgements
+
+Special thanks to Murtaza's Workshop for providing insightful tutorials and guidance. This project was made possible with the help of their excellent content.
+
+- [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/@murtazasworkshop)
+
