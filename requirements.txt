@@ -1,0 +1,10 @@
+# requirements.txt
+
+# CVZONE library for computer vision tasks
+cvzone==1.5.2
+
+# OpenCV library for image processing
+opencv-python==4.5.3
+
+#If you're using a serial library, include it here:
+pyserial==3.5
